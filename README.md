@@ -1,49 +1,60 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-a-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=900&t=st=1703431282~exp=1703431882~hmac=28af6b65d4c25237ae8cfe6c5c6544e19f5a7a3cb52715596624d3166bd9cedb" width="200" alt="Hacker Illustration"/>
+  <img src="https://img.freepik.com/free-vector/hacker-operating-a-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" width="200" alt="Android Developer"/>
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-Egor228000&style=flat-square&color=blue" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=Egor228000&style=flat-square&color=blue" alt="Profile Views"/>
   
   <h1>
-    Привет всем! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello"/>
+    Привет, я Егор - Android разработчик! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
+### 👨‍💻 Обо мне
 
-### 👩‍💻 Обо мне
-
-- Разрабатываю приложение на **Jetpack Compose**.
-- Пишу код на **Kotlin**.
-- Каждый день совершенствую навыки разработки под Android.
-- Люблю изучать новые технологии и делиться опытом.
+- 💻 Разработчик Android-приложений
+- 🚀 Специализируюсь на **Jetpack Compose** и **Kotlin**
+- 📱 Создаю современные, производительные мобильные приложения
+- 📚 Постоянно изучаю новые технологии и фреймворки
 
 ---
 
-### 🔧 Языки и инструменты
+### 🛠 Технологический стек
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ktor/ktor-original.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gradle/gradle-original.svg"  width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
+</div>
+
+
+---
+
+### 📈 Статистика
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Egor228000&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egor228000&layout=compact&theme=radical)
 </div>
 
 ---
 
-### 🚀 Открытые проекты
-
-- **Тестовые приложения**  
-  Реализовал несколько собственных проектов для проверки идей и экспериментов с новыми технологиями.  
----
+### 📫 Как связаться
 
 <div align="center">
-
-  <a href="https://t.me/Ebatkopat1234" target="_blank">Свяжитесь со мной</a>
+  <a href="https://t.me/Ebatkopat1234" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="40"/>
+  </a>
 </div>
-
-
 
